@@ -3,7 +3,7 @@
 
 ##General Information
 
-This script takes a list of users and updates their Canvas notification preferences as you like. Note that the notification preferences you can update through the API are more granular than what you see in the Canvas interface. New notification preferences are also being added regularly, so the "defaults" CSV file in this folder may be (probably is) out of date. They were current as of 9/18/2014.
+This script takes a list of users and updates their Canvas notification preferences as you like. Note that the notification preferences you can update through the API are more granular than what you see in the Canvas interface. New notification preferences are also being added regularly, so the "defaults" CSV file in this folder may be (probably is) out of date. They were current as of 11/30/2015.
 
 ##Using the Script
 
